@@ -1,4 +1,4 @@
-#Two Different Modes
+# Evolution of Web Standards: Navigating the Transition from Browser-Specific to W3C Guidelines
 
 - In the early days of the World Wide Web, there were two prominent web browsers, Netscape Navigator and Microsoft Internet Explorer, each with its own way of interpreting and displaying web pages. However, there was a lack of standardized rules for how web pages should be written and displayed.
 
